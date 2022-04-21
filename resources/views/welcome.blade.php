@@ -16,7 +16,7 @@
 
 <body class="bg-gray-200 p-4">
     <div class="lg:w-2/4 mx-auto py-8 px-6 bg-white rounded-lg">
-        <h1 class="font-bold text-2xl text-center mb-8 ">Todo App using Laravel + TailwindCss</h1>
+        <h1 class="font-bold text-2xl text-center mb-8 ">Todo App using Laravel + Tailwindcss</h1>
 
         <div class="mb-6">
             <form class="flex flex-col space-y-4" method="POST" action="/">
